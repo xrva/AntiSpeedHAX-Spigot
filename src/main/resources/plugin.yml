@@ -1,0 +1,4 @@
+name: RevuAC
+version: '${project.version}'
+main: revulose.revuac.RevuAC
+api-version: 1.8.8
